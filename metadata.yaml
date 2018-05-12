@@ -1,0 +1,33 @@
+_repo: A-System-Of-Logic-Ratiocinative-And-Inductive_27942
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mill, John Stuart
+    alias: Mill, J. S. (John Stuart)
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '1705'
+    url: http://www.gutenberg.org/2009/agents/1705
+    wikipedia: http://en.wikipedia.org/wiki/John_Stuart_Mill
+description: ''
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Philosophy
+gutenberg_issued: '2009-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Logic'
+- !lcsh 'Knowledge, Theory of'
+- !lcc 'BC'
+- !lcsh 'Science -- Methodology'
+title: A System Of Logic, Ratiocinative And Inductive
+url: http://www.gutenberg.org/ebooks/27942
